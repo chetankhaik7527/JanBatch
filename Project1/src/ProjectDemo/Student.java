@@ -19,7 +19,7 @@ public class Student {
 		System.out.println("Roll No :"+ st.roll_no);
 		st.display1();
 		st.display2();
-		System.out.println("Checking for staging");
+		System.out.println("Check for staging");
 	}
 
 }
